@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+}
+section{
+    background-image: url("a.png");
+    padding: 25rem;
+    background-size: cover;
+}
+
+.logo{
+    margin-top: -350px;
+    margin-left: -250px;
+    max-width: 200px;
+    min-height: auto;
+}
+

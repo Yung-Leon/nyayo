@@ -3,17 +3,20 @@
     padding: 0;
     max-width: 100%;
 }
-section{
-    background-image: url("a.png");
-    padding: 25rem;
-    background-size: cover;
+
+/* .top{
+	max-width:100%;
+	background-color:green !important;
+	border-bottom:2px solid #f0f0f0;
+    color: #fff;
+} */
+
+.heading{
+    color: #fff;
+    margin-left: 12em;
     max-width: 100%;
 }
-
 .logo{
-    margin-top: -350px;
-    margin-left: -250px;
-    max-width: 200px;
-    min-height: auto;
+    margin-left: 5rem;
 }
 
